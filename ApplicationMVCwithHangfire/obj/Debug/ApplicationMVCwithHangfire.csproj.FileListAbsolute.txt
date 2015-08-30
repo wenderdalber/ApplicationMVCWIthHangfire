@@ -24,3 +24,12 @@ c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithH
 c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\obj\Debug\ApplicationMVCwithHangfire.csprojResolveAssemblyReference.cache
 c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\obj\Debug\ApplicationMVCwithHangfire.dll
 c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\obj\Debug\ApplicationMVCwithHangfire.pdb
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Hangfire.Core.dll
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Hangfire.SqlServer.dll
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Microsoft.Owin.dll
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Owin.dll
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Hangfire.Core.xml
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Hangfire.SqlServer.xml
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Microsoft.Owin.xml
+c:\users\wender dalber\documents\visual studio 2013\Projects\ApplicationMVCwithHangfire\ApplicationMVCwithHangfire\bin\Microsoft.Owin.Host.SystemWeb.xml

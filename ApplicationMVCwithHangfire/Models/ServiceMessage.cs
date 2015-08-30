@@ -7,7 +7,7 @@ namespace ApplicationMVCwithHangfire.Models
 {
     public class ServiceMessage
     {
-        public static string Messages()
+        public string Messages()
         {
             string message = "This message is automatic with hangfire background job!";
             return message;

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using ApplicationMVCwithHangfire.Models;
+using Hangfire;
 
 namespace ApplicationMVCwithHangfire.Controllers
 {
@@ -30,7 +31,9 @@ namespace ApplicationMVCwithHangfire.Controllers
 
         public ActionResult StartMessage()
         {
-            ViewBag.Message = ServiceMessage.Messages();
+            /*Using schedule with a timespan of five minutes, this means this message is start
+            five minutes after one click in Message link*/
+            ViewBag.Message = BackgroundJob.Schedule<ServiceMessage>(m => m.Messages(), TimeSpan.FromMilliseconds(5));
 
             return View();
         }
